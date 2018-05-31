@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/openprocurement/pyramid-timing.svg?branch=master)](https://travis-ci.org/openprocurement/pyramid-timing)
-[![Coverage Status](https://coveralls.io/repos/github/openprocurement/pyramid-timing/badge.svg)](https://coveralls.io/github/openprocurement/pyramid-timing)
+[![Build Status](https://travis-ci.org/ProzorroUKR/pyramid-timing.svg?branch=master)](https://travis-ci.org/ProzorroUKR/pyramid-timing)
+[![Coverage Status](https://coveralls.io/repos/github/ProzorroUKR/pyramid-timing/badge.svg?branch=master)](https://coveralls.io/github/ProzorroUKR/pyramid-timing?branch=master)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # pyramid-timing
